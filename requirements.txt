@@ -1,0 +1,20 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
+torchcfm==1.0.7
+torchdiffeq==0.2.5
+torchdyn==1.0.6
+torchcde==0.2.5
+torchsde==0.2.6
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.10.1
+pandas==2.3.3
+pillow==12.1.1
+tqdm==4.67.1
+pyyaml==6.0.3
+pot==0.9.5
+jupyterlab==4.3.5
+ipykernel==6.29.5
